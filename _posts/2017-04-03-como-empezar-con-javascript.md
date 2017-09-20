@@ -2,10 +2,10 @@
 layout: post
 title: Cómo empezar con Javascript
 description: Pasos básicos a tomar para introducirte en Javascript
-image: assets/images/pic06.jpg
+image: assets/images/como-empezar-javascript.jpg
 ---
 
-## Cómo empezar con javascript
+
 [Aprende Javascript con mentoringjs](http://mentoringjs.com/ "Aprende Javascript con mentoringjs")
 
 ### En este documento os intentaré explicar los pasos básicos que deberéis tomar y saber para introduciros en javascript
