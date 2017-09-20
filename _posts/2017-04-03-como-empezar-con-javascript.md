@@ -1,3 +1,10 @@
+---
+layout: post
+title: Cómo empezar con Javascript
+description: Pasos básicos a tomar para introducirte en Javascript
+image: assets/images/pic06.jpg
+---
+
 ## Cómo empezar con javascript
 [Aprende Javascript con mentoringjs](http://mentoringjs.com/ "Aprende Javascript con mentoringjs")
 
