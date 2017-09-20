@@ -1,3 +1,4 @@
+---
 layout: post
 title: Cómo empezar con Github
 description: Pasos básicos a tomar para introducirte en Github
