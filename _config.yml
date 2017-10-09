@@ -3,7 +3,7 @@ title: Aprende Javascript
 subtitle: por Joan Sánchez
 email: joansvich@gmail.com
 description: Blog dedicado a plasmar la formación sobre javascript gracias a mentoringJS
-baseurl: "." # the subpath of your site, e.g. /blog
+baseurl: "/miblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author: Joan Sánchez
 #street_address: 1234 Somewhere Road
